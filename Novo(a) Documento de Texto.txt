@@ -1,2 +1,2 @@
 esse eh o primeiro arquivo de texto que subo para git
-alteração 1 :)
+alteração 1 
