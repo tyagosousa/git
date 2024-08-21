@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 teste
-=======
 teste
 outro teste
->>>>>>> thiago!
+teste kkkk
