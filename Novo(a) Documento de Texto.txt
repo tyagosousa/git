@@ -3,4 +3,4 @@ esse eh o primeiro arquivo de texto que subo para git
 alteração 1 
 branch do Thiago kkkk
 mais modificações para treinar o merge
-
+.................
